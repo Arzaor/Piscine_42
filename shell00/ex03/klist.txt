@@ -1,0 +1,5 @@
+Credentials cache: API:2F5417D7-F85C-4C39-9E58-85BBB9036E46
+        Principal: jbarette@42NICE.FR
+
+  Issued                Expires               Principal
+Oct  5 12:14:12 2020  Oct  5 22:14:11 2020  krbtgt/42NICE.FR@42NICE.FR
